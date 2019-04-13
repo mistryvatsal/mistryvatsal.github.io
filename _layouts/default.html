@@ -8,7 +8,8 @@ layout: compress
     {% if site.analytics-google %}
         {% include analytics-google.html %}
     {% endif %}
-
+    
+    
     <meta charset="utf-8">
     <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
     <meta name=viewport content="width=device-width, initial-scale=1">
@@ -28,7 +29,7 @@ layout: compress
     {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
     {{ scss_sheet | scssify }}
     </style>
-
+    <script src="{{ base.url | prepend: site.url }}/assets/util.js"></script>
 </head>
 <body>
 
