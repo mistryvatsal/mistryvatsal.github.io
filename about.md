@@ -6,9 +6,9 @@ layout: page
 
 <p>नमस्ते (Namaste) ,</p>
 
-<p>I am Vatsal Mistry and I live in <a href="https://en.wikipedia.org/wiki/India">India</a>.</p>
+<p>I am Vatsal Mistry and I live in <a href="https://en.wikipedia.org/wiki/Bangalore">Bengaluru</a>, <a href="https://en.wikipedia.org/wiki/India">India</a>.</p>
 
-<p>I currently am into the final year of <a href="https://en.wikipedia.org/wiki/Bachelor_of_Technology">B.Tech</a> in <a href="https://en.wikipedia.org/wiki/Computer_Science_and_Engineering">Computer Science and Engineering</a>, a 4-year undergraduate degree programme, pursuing at a university in <a href="https://en.wikipedia.org/wiki/Vadodara">Vadodara</a>, India. I'm looking for opportunities to diversify my skillset. I am interested in developing a wide range of skills in diverse fields that would complement each other in unexpected ways. So I engrained this idea to my lifestyle, and created a goal of learning one new thing in depth every <a href="https://dictionary.cambridge.org/dictionary/english/semester">semester</a>.</p>
+<p>I have completed <a href="https://en.wikipedia.org/wiki/Bachelor_of_Technology">B.Tech</a> in <a href="https://en.wikipedia.org/wiki/Computer_Science_and_Engineering">Computer Science and Engineering</a>, a 4-year undergraduate degree programme, from a university in <a href="https://en.wikipedia.org/wiki/Vadodara">Vadodara</a>, India. I'm looking for opportunities to diversify my skillset. I am interested in developing a wide range of skills in diverse fields that would complement each other in unexpected ways. So I engrained this idea to my lifestyle, and created a goal of learning one new thing in depth every <a href="https://dictionary.cambridge.org/dictionary/english/semester">semester</a>.</p>
 
 <p>I am currently learning Data Science and look it to be an aspiring job in future. My hobbies come and go. Currently I read articles on medium, enjoy cooking (and eating), do some <a href="https://www.djangoproject.com/">Django</a> stuff. In the past I've enjoyed photoshop, cricket, teaching, hill trekking and probably a few other things.</p>
 
