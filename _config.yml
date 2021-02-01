@@ -8,14 +8,13 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/uc?export=download&id=1Vy3jfxM8ySMFt4IEesP-BhnlXbM77sl-
-
+resume-url: https://drive.google.com/uc?export=download&id=141DFIbbZWZeX7vKtn2l01ywGKa46_wfq
 url: https://mistryvatsal.github.io
 # your url: http://USERNAME.github.io
 
